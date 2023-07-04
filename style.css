@@ -1,0 +1,253 @@
+body {
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: #F5F7FA;
+}
+
+.main-conteiner {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Main content section */
+
+.main-content-section {
+    padding: 100px 90px;
+}
+
+
+.main-content-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+
+
+/* About me section */
+
+.about-me-section{
+    margin: 0 0 40px 0;
+
+}
+
+.about-me-profession {
+    font-family: 'bolt';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin: 0 0 20px 0;
+}
+
+
+.about-me-name {
+    font-family: bolt;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin: 0 0 25px 0;
+}
+
+.about-me-description {
+    font-family: Regular;
+    width: 400px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+/* My projects section */
+
+.My-projects-section{
+    font-family: Bolt;
+    margin: 0 0 50px 0;
+}
+
+.My-projects-list{
+    padding: 0 0 0 17px;
+}
+
+.My-projects-item {
+    color: #000000;
+    font-weight: bold;
+}
+
+
+.My-projects-link {
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+.My-projects-text {
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 5px;
+    font-family: Montserrat;
+}
+
+.My-projects-bracket {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* My work experience */
+.My-work-experience-company{
+    color: #FB6D3A;
+}
+
+
+.My-work-experience-posistion {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin: 0 0 10px 0;
+    font-family: 'Montserrat';
+}
+
+.My-work-experience-period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 10px 0;
+    font-family: 'Montserrat'
+}
+
+
+.My-work-experience-divider{
+    color: #000;
+}
+
+
+.My-work-experience-duties {
+    padding: 0 0 0 18px;
+    font-family: 'Montserrat'
+}
+
+.My-work-experience-duty {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+.My-work-experience-company-block {
+    margin: 0 15px 0 0;
+}
+
+/* My Education section */
+.My-Education-section {
+    margin: 45px 0 0 0;
+}
+
+/* sidebar section */
+.sidebar-section {
+    background-color: #1E2939;
+    width: 370px;
+    padding: 40px 0 0 0;
+}
+
+.Contacts-section,
+.tech-skills-section {
+    margin: 50px 0 0 0;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+
+/* contacts section */
+
+.contacts-section-type {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin: 0 0 0 45px;
+
+}
+
+.contacts-section-link {
+    color: #565E6A;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 7px;
+}
+
+/* tech-skills-list */
+.tech-skills-list {
+    padding: 0 0 0 60px;
+}
+
+.tech-skills-item {
+    color: #FB6D3A;
+}
+
+.tech-skills-text {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* soft skills section */
+.soft-skill-list {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 55px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    padding-left: 40px;
+}
+
+
+
+
+
+
